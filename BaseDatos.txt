@@ -1,0 +1,50 @@
+1001;Nueva York;Los 聲geles;10;5;2023;08;00;11;5;2023;11;30;256000;En tierra;Primera clase;AirLux
+2002;Frankfurt;Londres;15;7;2023;12;15;15;7;2023;13;30;415000;En vuelo;Business;SkyLink
+3003;Atlanta;Miami;20;9;2023;14;45;20;9;2023;16;30;162500;Retrasado;Economy;AeroVista
+4004;Londres;Par疄;25;11;2023;09;30;25;11;2023;12;00;327500;En tierra;Economica;GlobalJet
+5005;Chicago;Denver;3;2;2024;13;15;3;2;2024;15;00;421500;En vuelo;Primera clase;FlyLux
+6006;Par疄;Roma;8;4;2024;16;45;8;4;2024;19;30;185000;En vuelo;Business;SkyConnect
+7007;Los 聲geles;Nueva York;13;6;2024;08;30;13;6;2024;16;15;296500;Retrasado;Economy;AirVista
+8008;Miami;Chicago;18;8;2024;17;45;18;8;2024;19;30;113500;En tierra;Economica;GlobalConnect
+9009;Frankfurt;Madrid;23;10;2024;21;00;23;10;2024;23;15;389000;En vuelo;Primera clase;FlyLux
+1010;Londres;Berl璯;28;12;2024;10;30;28;12;2024;13;00;203000;En tierra;Business;SkyLink
+1111;Chicago;Los 聲geles;2;3;2025;14;15;2;3;2025;16;45;292500;En vuelo;Economy;AeroVista
+1212;Par疄;Barcelona;7;5;2025;18;00;7;5;2025;20;30;124500;En vuelo;Economy;GlobalJet
+1313;Atlanta;Dallas;12;7;2025;09;00;12;7;2025;11;00;129000;Cancelado;Primera clase;FlyLux
+1414;Nueva York;San Francisco;17;9;2025;11;30;17;9;2025;14;15;356500;En tierra;Business;SkyConnect
+1515;Frankfurt;Londres;22;11;2025;15;45;22;11;2025;17;30;217500;En vuelo;Economy;AirVista
+1616;Chicago;Miami;27;1;2026;19;15;27;1;2026;22;00;487000;En vuelo;Economy;GlobalConnect
+1717;Londres;Par疄;2;4;2026;08;30;2;4;2026;11;00;325500;Retrasado;Primera clase;AirLux
+1818;Los 聲geles;Nueva York;7;6;2026;13;45;7;6;2026;15;30;218500;En vuelo;Business;SkyLink
+1919;Miami;Chicago;12;8;2026;17;00;12;8;2026;19;15;138500;En tierra;Economy;AeroVista
+2020;Frankfurt;Madrid;17;10;2026;21;15;17;10;2026;23;30;391000;En vuelo;Primera clase;FlyLux
+2121;Londres;Berl璯;22;12;2026;10;45;22;12;2026;13;00;199000;En vuelo;Business;SkyConnect
+2222;Chicago;Los 聲geles;27;2;2023;14;30;27;2;2023;17;00;305500;En tierra;Economy;AeroVista
+2323;Par疄;Barcelona;4;5;2023;18;45;4;5;2023;21;30;153500;En vuelo;Economy;GlobalJet
+2424;Atlanta;Dallas;9;7;2023;10;00;9;7;2023;12;15;119500;En vuelo;Primera clase;FlyLux
+2525;Nueva York;San Francisco;14;9;2023;12;15;14;9;2023;14;45;349000;Retrasado;Business;SkyLink
+2626;Frankfurt;Londres;19;11;2023;16;30;19;11;2023;18;45;229500;En tierra;Economy;GlobalConnect
+2727;Chicago;Miami;24;1;2024;20;45;24;1;2024;23;30;475000;En vuelo;Economy;AirVista
+2828;Londres;Par疄;1;4;2024;08;00;1;4;2024;10;15;321500;En vuelo;Primera clase;AirLux
+2929;Los 聲geles;Nueva York;6;6;2024;14;15;6;6;2024;21;00;243500;En tierra;Business;SkyConnect
+3030;Miami;Chicago;11;8;2024;18;30;11;8;2024;20;45;140500;En vuelo;Economy;GlobalJet
+3131;Frankfurt;Madrid;16;10;2024;22;45;16;10;2024;01;30;405000;En vuelo;Economy;AeroVista
+3232;Londres;Berl璯;21;12;2024;10;00;21;12;2024;12;15;221500;Cancelado;Primera clase;FlyLux
+3333;Chicago;Los 聲geles;26;2;2025;14;45;26;2;2025;17;30;299500;En tierra;Business;SkyLink
+3434;Par疄;Barcelona;3;5;2025;18;00;3;5;2025;20;30;142500;En vuelo;Economy;GlobalJet
+3535;Atlanta;Dallas;8;7;2025;10;15;8;7;2025;12;00;116500;En vuelo;Economy;AirVista
+3636;Nueva York;San Francisco;13;9;2025;12;45;13;9;2025;14;30;344500;En vuelo;Primera clase;AirLux
+3737;Frankfurt;Londres;18;11;2025;16;00;18;11;2025;18;15;207500;En tierra;Business;SkyConnect
+3838;Chicago;Miami;23;1;2026;20;15;23;1;2026;23;00;465500;En vuelo;Economy;GlobalConnect
+3939;Londres;Par疄;28;3;2026;08;30;28;3;2026;11;15;313500;En vuelo;Primera clase;FlyLux
+4040;Los 聲geles;Nueva York;2;6;2026;14;45;2;6;2026;21;30;238500;En tierra;Business;SkyLink
+4141;Miami;Chicago;7;8;2026;19;00;7;8;2026;20;45;137000;En vuelo;Economy;AeroVista
+4242;Frankfurt;Madrid;12;10;2026;23;15;12;10;2026;01;00;412000;Retrasado;Economy;GlobalJet
+4343;Londres;Berl璯;17;12;2026;10;30;17;12;2026;13;15;199500;En vuelo;Primera clase;AirLux
+4444;Chicago;Los 聲geles;22;2;2023;15;15;22;2;2023;18;00;308000;En tierra;Business;SkyConnect
+4545;Par疄;Barcelona;27;4;2023;19;30;27;4;2023;21;45;146000;En vuelo;Economy;AeroVista
+4646;Atlanta;Dallas;2;7;2023;11;45;2;7;2023;13;30;122500;Cancelado;Economy;GlobalConnect
+4747;Nueva York;San Francisco;7;9;2023;14;00;7;9;2023;16;30;377000;En tierra;Primera clase;FlyLux
+4848;Frankfurt;Londres;12;11;2023;17;15;12;11;2023;19;00;209500;En vuelo;Business;SkyLink
+4949;Chicago;Miami;17;1;2024;21;30;17;1;2024;00;15;428000;En vuelo;Economy;AeroVista
+5050;Londres;Par疄;22;3;2024;09;45;22;3;2024;12;30;311000;En vuelo;Economy;GlobalJet
